@@ -1,2 +1,2 @@
 # College_Board_SAT_data
-This repository contains pdf's of College board state level SAT data for years 2017-2022, code to scrape the pdf's and turn the data into a csv, as long as an output csv file containing the data for all the states and all the years. 
+This repository contains code to scrape the pdf's of College Board state level SAT data for years 2017-2022and turn the data into a csv. It also contains the pdf's and the output csv file. 
